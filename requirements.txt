@@ -1,0 +1,8 @@
+haystack-ai>=2.16.0
+pinecone-haystack>=5.0.0
+docling>=2.0.0
+tiktoken>=0.7.0
+pyTelegramBotAPI>=4.20.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+loguru>=0.7.0
